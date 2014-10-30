@@ -30,6 +30,4 @@ class RC4{
 		unsigned char prga();
 };
 
-#include "RC4.c"
-
 #endif /* !RC4_H */
